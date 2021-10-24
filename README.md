@@ -6,6 +6,9 @@ A dice game.
 
 ---
 
+## Powerd by [GetX][getx_link]
+
+
 ## Getting Started 🚀
 
 ## Assets 🎨
@@ -69,7 +72,7 @@ To support additional languages, please visit the tutorial on [Internationalizin
 [flutter_localizations_link]: https://api.flutter.dev/flutter/flutter_localizations/flutter_localizations-library.html
 [internationalization_link]: https://flutter.dev/docs/development/accessibility-and-localization/internationalization
 [internationalizing_flutter_apps_link]: https://flutter.dev/docs/development/accessibility-and-localization/internationalization
-[mason_link]: https://github.com/felangel/mason
+[getx_link]: https://pub.dev/packages/get
 [resolution_aware_assets_link]: https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware
 [very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
 [very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
