@@ -18,6 +18,7 @@ My First GetX project. Any improvement suggestions are appreciated. Learning get
 *  Live scoreboard
 *  Firebase authentication
 *  Firestore
+*  Offline compatability
 *  Complete any time from where you stopeed
 
 ## Flavors 😋
