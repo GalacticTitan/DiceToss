@@ -6,7 +6,11 @@ A dice game.
 
 ---
 
-## Powerd by [GetX][getx_link]
+## Powerd by [GetX][getx_link] ✌️
+
+My First GetX project. Any improvement suggestions are appreciated.
+
+![](https://raw.githubusercontent.com/jonataslaw/getx-community/master/getx.png)
 
 
 ## Getting Started 🚀
