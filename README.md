@@ -20,6 +20,11 @@ My First GetX project. Any improvement suggestions are appreciated. Learning get
 *  Firestore
 *  Complete any time from where you stopeed
 
+## Flavours 😋
+
+* production
+* preProduction
+
 
 ## Getting Started 🚀
 
