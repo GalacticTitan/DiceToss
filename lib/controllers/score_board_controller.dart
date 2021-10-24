@@ -6,7 +6,7 @@ class ScoreController extends GetxController {
   Stream<QuerySnapshot<UserData>> getData() {
     return FirebaseFirestore.instance
         .collection('Users')
-        .orderBy('score')
+        .orderBy('score',descending: true)
         .limit(10)
         .withConverter<UserData>(
           fromFirestore: (snapshot, options) =>
