@@ -8,9 +8,17 @@ A dice game.
 
 ## Powerd by [GetX][getx_link] ✌️
 
-My First GetX project. Any improvement suggestions are appreciated.
+My First GetX project. Any improvement suggestions are appreciated. Learning getX
 
-![](https://raw.githubusercontent.com/jonataslaw/getx-community/master/getx.png)
+![](https://raw.githubusercontent.com/jonataslaw/getx-community/master/get.png)
+
+
+## Features 🌟
+
+>   Live scoreboard
+>   Firebase authentication
+>   Firestore
+>   Complete any time from where you stopeed
 
 
 ## Getting Started 🚀
