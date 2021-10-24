@@ -50,6 +50,22 @@ android {
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
     }
+    flavorDimensions "app"
+    productFlavors {
+        preProduction {
+            dimension "app"
+            applicationId "com.kbj.dice_master"
+            versionCode flutterVersionCode.toInteger()
+            versionName flutterVersionName
+        }
+
+        production {
+            dimension "app"
+            applicationId "com.kbj.dice_master"
+            versionCode flutterVersionCode.toInteger()
+            versionName flutterVersionName
+        }
+    }
 
     buildTypes {
         release {

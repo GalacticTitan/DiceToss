@@ -1,5 +1,5 @@
 import 'package:dice_master/middlewares/auth_middleware.dart';
-import 'package:dice_master/translations/translation.dart';
+import 'package:dice_master/translations/pre_translation.dart';
 import 'package:dice_master/views/dice/dice_view.dart';
 import 'package:dice_master/views/login/login.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -14,7 +14,7 @@ void main() async {
   await Firebase.initializeApp();
   Get.put(AuthController());
   runApp(GetMaterialApp(
-    translations: MainTranslations(),
+    translations: PreTranslations(),
     locale: const Locale('en', 'US'),
     initialRoute: '/home',
     getPages: [
