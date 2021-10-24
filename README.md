@@ -15,10 +15,10 @@ My First GetX project. Any improvement suggestions are appreciated. Learning get
 
 ## Features 🌟
 
->   Live scoreboard
->   Firebase authentication
->   Firestore
->   Complete any time from where you stopeed
+*  Live scoreboard
+*  Firebase authentication
+*  Firestore
+*  Complete any time from where you stopeed
 
 
 ## Getting Started 🚀
