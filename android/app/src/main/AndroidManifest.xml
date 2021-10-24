@@ -1,6 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.kbj.dice_master">
-   <application
+    <application
+        android:usesCleartextTraffic="true">
         android:label="dice_master"
         android:icon="@mipmap/ic_launcher">
         <activity
