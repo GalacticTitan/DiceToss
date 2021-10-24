@@ -25,6 +25,16 @@ My First GetX project. Any improvement suggestions are appreciated. Learning get
 * production
 * preProduction
 
+To launch each config from the command line, you can simply type flutter run 
+
+```sh
+flutter run --flavor production -t lib/main.dart
+flutter run --flavor preProduction -t lib/main_pre.dart
+```
+
+Or, from the IDE, you can edit each configuration.
+
+
 
 ## Getting Started 🚀
 
@@ -62,7 +72,7 @@ This project relies on GetX localizations.
 
 To support additional languages, please visit the tutorial on [Internationalizing Flutter apps][internationalizing_flutter_apps_link].
 
-1. For each supported locale, add a new ARB file in `lib/l10n/arb`.
+1. For each supported locale, add a new json object 'en_US' in translations.
 
 ```
 ├── lib
